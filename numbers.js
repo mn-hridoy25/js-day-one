@@ -7,7 +7,7 @@ console.log(first); // General output
 console.log(second); // General output
 
 
-console.log(typeof(first)); //for check the data type we can "typeof()" method
+console.log(typeof(first)); //for check the data type we can use "typeof()" method
 console.log(Number.parseInt(second)); //float to int
 
 console.log(Number.MAX_VALUE); //highest number
